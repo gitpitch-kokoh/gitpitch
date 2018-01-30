@@ -378,13 +378,6 @@ Cara untuk mengakses tampilan YanKes dengan cara memasuki link url http://yankes
 
 ![Tampilan Blog](/assets/images/blog1.png)
 
-<span style="font-size:0.6em; color:gray">Lajutannya...</span>
-@fa[arrow-down]
-
-+++
-
-![Tampilan Blog](/assets/images/blog1.png)
-
 ---
 
 @title[Detail Blog]
