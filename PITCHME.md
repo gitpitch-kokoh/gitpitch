@@ -21,7 +21,7 @@
 ## Layanan Kesehatan (<span class="gold">YanKes</span>)
 
 - YanKes adalah aplikasi berbasis web yang memberikan informasi mengenai informasi kesehatan yang terdapat di Banten. |
-- Aplikasi ini dilengkapi dengan informasi mengenai Rumah Sakit, Dokter dam Obat yang terdapat di Provinsi Banten. |
+- Aplikasi ini dilengkapi dengan informasi mengenai Rumah Sakit dan Dokter yang terdapat di Provinsi Banten. |
 
 ---
 
@@ -31,7 +31,7 @@
 - Mudah digunakan oleh masyarakat banyak. |
 - Tampilan yang menarik. |
 - Masyarakat dapat berkonsultasi dengan dokter secara langsung. |
-- Memudahkan dalam mencari informasi mengenai rumah sakit, dokter, obat dan jadwal jaga dokter. |
+- Memudahkan dalam mencari informasi mengenai rumah sakit, dokter dan jadwal jaga dokter. |
 
 ---
 
